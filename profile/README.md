@@ -30,7 +30,6 @@ Suggested flow:
 4. Ship it.
 
 ## House Rules
-- No harmful or abusive content.
 - No secrets in commits.
 - If it breaks, document it.
 
